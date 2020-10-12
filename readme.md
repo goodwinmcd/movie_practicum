@@ -16,3 +16,5 @@ Explanation of all files
 - This is a jupyter file I used to build the models to predict imdb ratings based on the data.
 8. test-scrape.py
 - POC to make sure I could get needed data from omdb and tmdb
+9. postgres folder
+- has necessary files to load collected data to the db as the dockerfile gets built
